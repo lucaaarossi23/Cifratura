@@ -1,0 +1,14 @@
+C:\Users\paper\source\repos\Cifratura\Cifratura\bin\Debug\net10.0\Cifratura.exe
+C:\Users\paper\source\repos\Cifratura\Cifratura\bin\Debug\net10.0\Cifratura.deps.json
+C:\Users\paper\source\repos\Cifratura\Cifratura\bin\Debug\net10.0\Cifratura.runtimeconfig.json
+C:\Users\paper\source\repos\Cifratura\Cifratura\bin\Debug\net10.0\Cifratura.dll
+C:\Users\paper\source\repos\Cifratura\Cifratura\bin\Debug\net10.0\Cifratura.pdb
+C:\Users\paper\source\repos\Cifratura\Cifratura\obj\Debug\net10.0\Cifratura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paper\source\repos\Cifratura\Cifratura\obj\Debug\net10.0\Cifratura.AssemblyInfoInputs.cache
+C:\Users\paper\source\repos\Cifratura\Cifratura\obj\Debug\net10.0\Cifratura.AssemblyInfo.cs
+C:\Users\paper\source\repos\Cifratura\Cifratura\obj\Debug\net10.0\Cifratura.csproj.CoreCompileInputs.cache
+C:\Users\paper\source\repos\Cifratura\Cifratura\obj\Debug\net10.0\Cifratura.dll
+C:\Users\paper\source\repos\Cifratura\Cifratura\obj\Debug\net10.0\refint\Cifratura.dll
+C:\Users\paper\source\repos\Cifratura\Cifratura\obj\Debug\net10.0\Cifratura.pdb
+C:\Users\paper\source\repos\Cifratura\Cifratura\obj\Debug\net10.0\Cifratura.genruntimeconfig.cache
+C:\Users\paper\source\repos\Cifratura\Cifratura\obj\Debug\net10.0\ref\Cifratura.dll
